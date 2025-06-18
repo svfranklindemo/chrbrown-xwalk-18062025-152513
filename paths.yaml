@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/chrbrown/edgeue/:/
+ - /content/chrbrown/edgeue/metadata.json:/metadata.json
+ - /content/chrbrown/edgeue/redirects.json:/redirects.json
